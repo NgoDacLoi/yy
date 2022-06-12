@@ -1,0 +1,14 @@
+.todo-list {
+  margin-left: 100px
+}
+
+
+h1 {
+  position: absolute;
+  width: 948px;
+  height: 114px;
+  left: 296px;
+  top: 91px;
+  background: #CD3434;
+  border-radius: 20px;
+}
